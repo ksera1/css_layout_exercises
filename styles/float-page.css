@@ -10,3 +10,15 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.neb1 {
+	margin: 1em;
+	float: left;
+  width: 300px;
+}
+
+.neb2 {
+	float: right;
+  margin: 1em;
+  width: 300px;
+}
